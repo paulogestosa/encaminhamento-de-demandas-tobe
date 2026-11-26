@@ -29,7 +29,6 @@ Versão do diagrama com identificação visual das alterações realizadas em re
 |---|---|
 | 🟩 Verde | Elementos novos |
 | 🟦 Azul | Elementos modificados |
-| 🟥 Vermelho | Elementos excluídos |
 | ⬜ Branco | Elementos preservados |
 
 ## 3. Subprocessos
